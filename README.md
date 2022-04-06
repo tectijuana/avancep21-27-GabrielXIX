@@ -38,9 +38,11 @@ Archivos Subidos con el Token
 ![image](https://user-images.githubusercontent.com/65438145/162042187-22b00f67-6178-4525-9741-662259f36668.png)
 
 Al usar ldrsb los registros tras 5 líneas ejecutadas son:
+
 ![image](https://user-images.githubusercontent.com/65438145/162042313-915510b1-577e-4bad-991a-fef9fcc09f0e.png)
 
 Pero al cambiar a ldrb (sin extender signos) son:
+
 ![image](https://user-images.githubusercontent.com/65438145/162042613-be17d6a6-8959-4a60-81c5-27a98c5ce344.png)
 
 ![image](https://user-images.githubusercontent.com/65438145/162042684-f2e28ade-d6d7-4c28-87c2-4ff95ab43743.png)
