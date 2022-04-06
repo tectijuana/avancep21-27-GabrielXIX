@@ -33,6 +33,7 @@ Número De Control: 19211630
 
 Fecha de entrega: 5/abril/2022
 
+--------------------------------------
 Archivos Subidos con el Token
 
 ![image](https://user-images.githubusercontent.com/65438145/162042187-22b00f67-6178-4525-9741-662259f36668.png)
@@ -45,22 +46,26 @@ Pero al cambiar a ldrb (sin extender signos) son:
 
 ![image](https://user-images.githubusercontent.com/65438145/162042613-be17d6a6-8959-4a60-81c5-27a98c5ce344.png)
 
+------------------------------------------
 ![image](https://user-images.githubusercontent.com/65438145/162042684-f2e28ade-d6d7-4c28-87c2-4ff95ab43743.png)
 
 Al cambiar la instrucción de add por adds el registro cpsr es el siguiente:
 ![image](https://user-images.githubusercontent.com/65438145/162042878-51fa01da-902a-4515-9a56-786f4e030c17.png)
 Entonces 8 -> 0b1000, por lo tanto, los flags están como: N=1, Z=0, C=0, V=0.
 
+-------------------------------------------
 ![image](https://user-images.githubusercontent.com/65438145/162042954-c865e1b3-1f4e-4f36-a1ef-9ab01c5efd19.png)
 
 Resultados de los registros r0=AND y r1=OR
 ![image](https://user-images.githubusercontent.com/65438145/162043062-18ddeea6-ba62-4fe3-9200-7c0e805a4259.png)
 
+--------------------------------------------
 ![image](https://user-images.githubusercontent.com/65438145/162043110-c6b27b92-da50-4def-9aaa-0ee01e089952.png)
 
 Resultado de instrucción mvn r4, r0
 ![image](https://user-images.githubusercontent.com/65438145/162043199-86f84041-cc07-4307-88a9-edd25c5473f4.png)
 
+--------------------------------------------
 ![image](https://user-images.githubusercontent.com/65438145/162043248-217c203f-c40e-4a2c-81fe-e2c5bf6854ad.png)
 
 Primera instrucción tst: los flags quedaron como N=1, Z=0, C=1, V=0
