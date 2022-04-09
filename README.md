@@ -78,3 +78,22 @@ Primera instrucción tst: los flags quedaron como N=1, Z=0, C=1, V=0
 Segunda instrucción tst: los flags quedaron como N=0, Z=1, C=0, V=0
 
 ![image](https://user-images.githubusercontent.com/65438145/162043355-22335fd1-a793-4d51-84da-46f20bd07cec.png)
+
+------------------------------------------------
+Subiendo los archivos a github con clone, add, commit y push
+
+git clone
+
+![image](https://user-images.githubusercontent.com/65438145/162059326-1ada8f80-4406-4b46-ac09-91e49171ebbf.png)
+
+Copiando archivos a la carpeta y usando git add
+
+![image](https://user-images.githubusercontent.com/65438145/162059356-81f57b33-7a5e-40e1-8476-d29a777c5965.png)
+
+git commit -m
+
+![image](https://user-images.githubusercontent.com/65438145/162059393-b74ffbfc-ab87-49f0-a23c-9c0856d8bce0.png)
+
+git push origin main
+
+![image](https://user-images.githubusercontent.com/65438145/162059432-bd0f6f0f-23d9-41fd-bf93-f67d32a4e41f.png)
