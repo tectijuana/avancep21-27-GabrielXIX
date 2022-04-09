@@ -97,3 +97,33 @@ git commit -m
 git push origin main
 
 ![image](https://user-images.githubusercontent.com/65438145/162059432-bd0f6f0f-23d9-41fd-bf93-f67d32a4e41f.png)
+
+---------------------------------------------------
+Unidad: 2
+
+Tarea: 2.6 Avance Cuadernillo
+
+Alumno: Dueñas Nuñez Alan Gabriel
+
+Número De Control: 19211630
+
+Fecha de entrega: 8/abril/2022
+
+---------------------------------------------------
+![image](https://user-images.githubusercontent.com/65438145/162553029-054cb80c-c68f-489d-a1da-1cce496366e3.png)
+
+Resultado multiplicación mul en r5
+
+![image](https://user-images.githubusercontent.com/65438145/162553041-9010239d-6af9-467a-afd8-319625aaffc4.png)
+
+Resultado multiplicación umull en r5 y r6
+
+![image](https://user-images.githubusercontent.com/65438145/162553051-b966abc4-d847-4b58-b388-21b323a544cd.png)
+
+Resultado de multiplicación smull en r5 y r6
+
+![image](https://user-images.githubusercontent.com/65438145/162553064-c2214ae1-fde8-42b0-a6f6-ffd8dbb3fb3e.png)
+
+Resultado de la multiplicación smulwb en r5
+
+![image](https://user-images.githubusercontent.com/65438145/162553073-85607ab4-c867-4d06-9c50-2421edfc81f9.png)
